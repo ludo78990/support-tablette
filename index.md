@@ -1,6 +1,6 @@
 <center><a title="ElockStore.com" href="https://www.ElockStore.com"><img title="Support Tablette ElockStore" src="https://www.elockstore.com/img/elockstore-logo-1675524908.jpg" alt="Support Tablette ElockStore" width="300" height="58" /></a></center>
 <h2 data-pm-slice="1 1 []">✨ Bienvenue sur <a title="ElockStore.com" href="https://www.ElockStore.com">ElockStore.com</a> : Votre Expert en Supports Tablettes et Accessoires de S&eacute;curit&eacute; pour Appareils Mobiles ✨</h2>
-<p>Code Promo ElockStore : <strong>GITHUB7</strong>strong> -7% sur toutes vos commandes</p>
+<p>Code Promo ElockStore : <strong>GITHUB7</strong> -7% sur toutes vos commandes</p>
 <p>Sur <strong>ElockStore.com</strong>, nous vous proposons une large gamme de solutions pour la s&eacute;curit&eacute; et la <strong>fixation de vos appareils &eacute;lectroniques</strong>. Que vous recherchiez un <a href="https://www.elockstore.com/299-support-tablette"><strong>support tablette</strong></a>, une solution<strong> antivol pour votre MacBook</strong> ou encore des accessoires professionnels, nous avons s&eacute;lectionn&eacute; les meilleures marques du march&eacute; : <strong>Maclocks</strong>, <strong>Compulocks</strong> et <strong>Arkon</strong>.</p>
 <h3>D&eacute;couvrez ci-dessous les solutions id&eacute;ales pour vos besoins professionnels.</h3>
 <p>Nos <strong>supports tablette</strong> sont con&ccedil;us pour offrir &agrave; la fois s&eacute;curit&eacute; et confort d'utilisation.</p>
