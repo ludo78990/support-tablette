@@ -1,2 +1,2 @@
-<h2>support-tablette</h2>
-Support tablette à usage professionnel sur ElockStore.com
+<center><a title="ElockStore.com" href="https://www.ElockStore.com"><img title="Support Tablette ElockStore" src="https://www.elockstore.com/img/elockstore-logo-1675524908.jpg" alt="Support Tablette ElockStore" width="300" height="58" /></a></center>
+<p>✨ Bienvenue sur <a title="ElockStore.com" href="https://www.ElockStore.com">ElockStore.com</a> : Votre Expert en Supports Tablettes et Accessoires de S&eacute;curit&eacute; pour Appareils Mobiles ✨</p>
