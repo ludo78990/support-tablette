@@ -26,6 +26,7 @@ social:
   name: "elockstore"
   links:
     - "https://www.elockstore.com/"
+    - "https://www.elockstore.com/299-support-tablette"
 
 # Theme du site (ex: Cayman)
 theme: jekyll-theme-cayman
