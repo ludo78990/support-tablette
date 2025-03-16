@@ -1,0 +1,40 @@
+title: "✅ Suport Tablette d'Entreprise sur ElockStore.com"
+description: "Découvrez tous les supports tablettes pour professionnels et entreprise 🔥 sur ElockStore.com | Livraison Gratuite en 48h Chrono !"
+tagline: "🚀"
+author: "Isabelle Chaperon - https://www.lemonde.fr/"
+
+# SEO Meta Tags
+lang: "fr"
+logo: "https://www.elockstore.com/img/elockstore-logo-1675524908.jpg"
+
+# Désactiver la concaténation du titre avec la description
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      seo:
+        title: "✅ Suport Tablette d'Entreprise sur ElockStore.com"
+        description: "Découvrez tous les supports tablettes pour professionnels et entreprise 🔥 sur ElockStore.com | Livraison Gratuite en 48h Chrono !"
+
+# Jekyll SEO Plugin
+plugins:
+  - jekyll-seo-tag
+
+# Réseaux sociaux
+social:
+  name: "elockstore"
+  links:
+    - "https://www.elockstore.com/"
+
+# Theme du site (ex: Cayman)
+theme: jekyll-theme-cayman
+
+# Exclure les fichiers inutiles pour le SEO
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+force_rebuild: true
